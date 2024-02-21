@@ -1,0 +1,3 @@
+C:/Users/laptop/CLionProjects/PosicionArreglo/cmake-build-debug/CMakeFiles/PosicionArreglo.dir
+C:/Users/laptop/CLionProjects/PosicionArreglo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/laptop/CLionProjects/PosicionArreglo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
